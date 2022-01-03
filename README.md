@@ -1,5 +1,6 @@
 # abhimanyu741.github.io
-A portfolio website (personal project)
+A portfolio website (personal project).
+
 Properties
 This has been developed using HTML, CSS and Javascript.
 HTML : To provide the basic structure of the website.
